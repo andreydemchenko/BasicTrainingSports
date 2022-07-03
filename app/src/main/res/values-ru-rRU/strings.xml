@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sports</string>
+    <string name="news_title">Новости</string>
+    <string name="sports_news_detail_text">Занятие спортом - определенный вид деятельности людей,
+        направленная на достижение заданного результата в физическом развитии человека.
+        Спорт - составная часть физической культуры, при которой основной упор делается
+        на само физическое развитие человека, укрепление его здоровья и самочувствия.</string>
+    <string name="sports_info_placeholder">Вот некоторые новости</string>
+    <string name="baseball">Бейсбол</string>
+    <string name="badminton">Бадминтон</string>
+    <string name="basketball">Баскетбол</string>
+    <string name="bowling">Боулинг</string>
+    <string name="cycling">Велоспорт</string>
+    <string name="golf">Гольф</string>
+    <string name="running">Бег</string>
+    <string name="soccer">Футбол</string>
+    <string name="swimming">Плавание</string>
+    <string name="table_tennis">Нвстольный теннис</string>
+    <string name="tennis">Теннис</string>
+    <string name="baseball_subtitle">Вот некоторые новости бейсбола!</string>
+    <string name="badminton_subtitle">Вот некоторые новости о бадминтоне!</string>
+    <string name="basketball_subtitle">Вот несколько баскетбольных новостей!</string>
+    <string name="bowling_subtitle">Вот некоторые новости о боулинге!</string>
+    <string name="cycling_subtitle">Вот некоторые новости о велоспорте!</string>
+    <string name="golf_subtitle">Вот некоторые новости о гольфе!</string>
+    <string name="running_subtitle">Вот некоторые новости о беге!</string>
+    <string name="soccer_subtitle">Вот некоторые футбольные новости!</string>
+    <string name="swimming_subtitle">Вот некоторые новости о плавании!</string>
+    <string name="table_tennis_subtitle">Вот несколько новостей о настольном теннисе!</string>
+    <string name="tennis_subtitle">Вот несколько теннисных новостей!</string>
+    <string name="title_placeholder">Заголовок</string>
+    <string name="news_fragment_label">Спортивные новости</string>
+</resources>
